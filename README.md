@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannat456nur&label=Profile%20views&color=0e75b6&style=flat" alt="jannat456nur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jannat456nur" alt="jannat456nur" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jannat31300069" target="blank"><img src="https://img.shields.io/twitter/follow/jannat31300069?logo=twitter&style=for-the-badge" alt="jannat31300069" /></a> </p>
 
 - 🔭 I’m currently working on **Razorcut**
