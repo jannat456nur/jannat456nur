@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nurany Jannat Jenny</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="left"> <img src="./images/undraw_Dev_focus_re_6iwt.png" alt="jannat456nur" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannat456nur&label=Profile%20views&color=0e75b6&style=flat" alt="jannat456nur" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jannat31300069" target="blank"><img src="https://img.shields.io/twitter/follow/jannat31300069?logo=twitter&style=for-the-badge" alt="jannat31300069" /></a> </p>
