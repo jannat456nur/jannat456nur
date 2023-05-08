@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/jannat31300069" target="blank"><img src="https://img.shields.io/twitter/follow/jannat31300069?logo=twitter&style=for-the-badge" alt="jannat31300069" /></a> </p>
 
-- 🔭 I’m currently working on **Razorcut**
+- 🔭 I’m currently working on **natureNaxus**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **MERN**
 
